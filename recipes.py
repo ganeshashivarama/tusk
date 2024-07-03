@@ -7,13 +7,16 @@ veg_recipes = {
   5: 'paneer pasta'
 }
 
-non_veg_recipes = {
+egg_recipes = {
   1: 'egg pasta',
   2: 'egg cheese pasta',
   3: 'egg maggie',
-  4: 'egg cheese maggie',
-  5: 'chicken pasta',
-  6: 'chicken cheese pasta'
+  4: 'egg cheese maggie'
+}
+
+chicken_recipes = {
+  1: 'chicken pasta',
+  2: 'chicken cheese pasta'
 }
 
 mutton_recipes = {
