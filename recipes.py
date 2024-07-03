@@ -4,9 +4,7 @@ veg_recipes = {
   1: 'mixveg red pasta',
   2: 'mixveg white pasta',
   3: 'veg maggie',
-  4. 'veg cheese maggie',
-  5: 'paneer pasta',
-  6: 'paneer cheese pasta'
+  5: 'paneer pasta'
 }
 
 non_veg_recipes = {
