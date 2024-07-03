@@ -13,7 +13,5 @@ non_veg_recipes = {
   3: 'egg maggie',
   4: 'egg cheese maggie',
   5: 'chicken pasta',
-  6: 'chicken cheese pasta',
-  7: 'mutton chilly',
-  8: 'mutton kabab'
+  6: 'chicken cheese pasta'
 }
