@@ -8,3 +8,10 @@ veg_recipes = {
   5: 'paneer pasta'
   6: 'paneer cheese pasta'
 }
+
+non_veg_recipes = {
+  1: 'egg pasta'
+  2: 'egg cheese pasta'
+  3: 'egg maggie'
+  4: 'egg cheese maggie'
+}
