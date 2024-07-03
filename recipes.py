@@ -15,3 +15,9 @@ non_veg_recipes = {
   5: 'chicken pasta',
   6: 'chicken cheese pasta'
 }
+
+mutton_recipes = {
+  1: 'mutton chilly dry'
+  2: 'mutton kabab'
+  3: 'mutton biriyani'
+}
